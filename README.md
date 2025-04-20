@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafael Silva 🖐️
+## Olá! Eu sou o Rafael Silva 🖐
 
 <div> 
   <a href = "mailto:rrafael177@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -6,7 +6,8 @@
 </div>
 
 
-  ## Tecnologias que eu tenho conhecimento
+  ## Tecnologias que eu tenho conhecimento 
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,8 +17,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor em início de carreira, apaixonado pelo mundo da tecnologia e desenvolvimento de softwares .
- 
+💻 Desenvolvedor em início de carreira, apaixonado pelo mundo da tecnologia e desenvolvimento de softwares.
 
+-
+ 
 
 
